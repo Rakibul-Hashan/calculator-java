@@ -152,6 +152,10 @@ public class SimpleCalculator extends javax.swing.JFrame {
         double multiplication = a * b;
 
         result.setText(String.valueOf(multiplication));
+        
+        
+        
+        // done
     }//GEN-LAST:event_mulActionPerformed
 
     /**
